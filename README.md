@@ -27,3 +27,4 @@ JQUERY
 
 XMPP
 
+![](shop1.png)
